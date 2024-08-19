@@ -1,5 +1,6 @@
 {
-  "rewrites": [
-    { "source": "/", "destination": "/public/index.html" }
-  ]
+  "static": {
+    "src": "public/*",
+    "dest": "/"
+  }
 }
