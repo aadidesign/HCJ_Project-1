@@ -1,0 +1,6 @@
+{
+  "static": {
+    "src": "public/*",
+    "dest": "/"
+  }
+}
